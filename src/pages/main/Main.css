@@ -1,0 +1,7 @@
+.main-background {
+    background-color: #9DB0B0;
+    min-height: 100vh;  /* 전체 화면 높이 */
+    width: 100%;       /* 전체 화면 너비 */
+    margin: 0;
+    padding: 0;
+  }
